@@ -1,0 +1,13 @@
+# Binaries not tracked — use local copies
+*.zip
+*.apk
+*.img
+*.msi
+*.exe
+*.bin
+*.scatter
+!README.md
+
+# Keep folder structure but ignore toolkit blobs
+STUFF/*
+!STUFF/README.md
