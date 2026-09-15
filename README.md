@@ -10,19 +10,20 @@ Stock: Android 5.1 Lollipop, abandoned. Goal: hack it, replace it, prove the poi
 |---|---|
 | Codename / Model | BLU Pure XL |
 | Release | September 2015, Discontinued, $349 unlocked |
-| SoC | MediaTek MT6795 Helio X10 (28nm) |
-| CPU | 8x ARM Cortex-A53 @ 2.0 GHz, 64-bit |
-| GPU | Imagination PowerVR G6200 @ 550 MHz |
-| RAM | 3 GB LPDDR3 |
-| Storage | 64 GB internal + microSDXC up to 64 GB |
-| Display | 6.0" Quad HD Super AMOLED 2560x1440, 490ppi, Gorilla Glass 3 |
-| Battery | 3500 mAh Li-Po, 9V/2A quick charge |
-| Rear cam | 24 MP, 1/2.3", PDAF, dual-tone LED, 4K@30 |
-| Front cam | 8 MP AF |
-| SIM | Micro-SIM, 4G LTE (AT&T / T-Mobile bands) |
-| Audio | 24-bit/192kHz, dual stereo speakers, Smart PA, DTS |
-| Extras | Fingerprint (rear), NFC, Wi-Fi a/b/g/n/ac dual-band, BT 4.0, GPS+GLONASS, microUSB 2.0 |
-| Dimensions | 164 x 82.2 x 9.6 mm, 202g, aluminium |
+| SoC | MediaTek MT6795 Helio X10 |
+| CPU | Octa-core 2.0 GHz Cortex-A53 |
+| GPU | PowerVR G6200 |
+| RAM | 3 GB |
+| Memory | 64 GB |
+| Camera | 24 MP, 5632 x 4224 pixels, optical image stabilization, phase detection autofocus, dual-LED (dual tone) flash |
+| Secondary Camera | 8 MP |
+| Sensors | Accelerometer, gyro, proximity, compass |
+| Connectivity | Wi-Fi 802.11 a/b/g/n, Wi-Fi hotspot, Bluetooth v4.0 |
+| Battery | 3500 mAh |
+| Dimensions | 164 x 82.2 x 9.3 mm |
+| Weight | 207 g |
+| Colour Availability | Black |
+| Display | AMOLED, 6.0 inches, 1440 x 2560 pixels (~490 ppi pixel density) |
 | Stock OS | Android 5.1 Lollipop, Kernel 3.10.x MTK |
 | Bootloader / Flash | MediaTek Preloader + SP Flash Tool, scatter-based |
 
